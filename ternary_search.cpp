@@ -1,3 +1,7 @@
+//Jared Adamson 
+//Assignment 2
+//Design and Analysis of Algorithms: CS627
+
 #include <iostream> 
 #include <string> 
 #include <cctype>
@@ -30,7 +34,7 @@ int tSearch(string playlist[], const string& song, int left, int right) {
 
 
 int main() {
-    // A playlist array to test the algorithm on.
+    // A playlist array to test the algorithm.
     string playlist[] = {
        "all of me", "believer", "counting stars", "demons", "apt",
         "imagine", "pink pony club", "photograph", "radioactive", "shape of you"

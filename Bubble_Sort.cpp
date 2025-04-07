@@ -1,4 +1,4 @@
-// Practicing sorting algorithms
+// Bubble Sort Practice Assignment
 #include <iostream>
 using namespace std;
 #include <random>
